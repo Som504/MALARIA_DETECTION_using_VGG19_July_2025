@@ -40,17 +40,16 @@ Libraries	    : TensorFlow 2.0, VGG19
 | Loss | 0.14285 | 0.1762 |
 | Precision | 0.96 |
 | Recall | 0.96 |
-| ROC-AUC |		
+		
 
 ## Model and Training Parameters
 | Parameter | Value |
 | --------- | ----- |
-| Base Model |VGG19	| 
-| Optimizer | Stochastic Gradient Descent |
+| Base Model |VGG19	|
 | Loss Function | Categorical Crossentropy |
 | Learning Rate | 0.0001 |
 | Batch Size | 32 |
-| Number of Epochs | Round #1 & #2: 10 epochs, Round#3: 35 epochs |	
+| Number of Epochs | Round 1 and 2: 10 epochs, Round 3: 35 epochs |	
  
 
 
