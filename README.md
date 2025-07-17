@@ -1,12 +1,4 @@
-# Malaria Parasite Detection in Thin Blood Smear Images by Retraining Pretrained Convolutional Neural Networks (VGG19)
-
-```
-Domain 		: Computer Vision, Machine Learning
-Sub-Domain	: Deep Learning, Image Recognition
-Techniques	: Deep Convolutional Neural Network, Transfer Learning, VGG19
-Application	: Image Classification, Medical Imaging, Bio-Medical Imaging
-```
-
+# Malaria Parasite Detection 
 
 ## Description
 * Detected malarial parasites from thin blood smear images using deep learning. Images were collected from the Malaria screening research activity by the National Institutes of Health (NIH).
@@ -18,6 +10,15 @@ Application	: Image Classification, Medical Imaging, Bio-Medical Imaging
 * Image augmentation and resizing were applied in real-time during training to improve generalization.
 
 * Achieved a categorical cross-entropy loss of 0.159 and an accuracy of 95.7% on the test set.
+
+
+```
+Domain 		: Computer Vision, Machine Learning
+Sub-Domain	: Deep Learning, Image Recognition
+Techniques	: Deep Convolutional Neural Network, Transfer Learning, VGG19
+Application	: Image Classification, Medical Imaging, Bio-Medical Imaging
+```
+
 
 ## Dataset Details
 Dataset Name		        : Malaria Cell Images Dataset
